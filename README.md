@@ -6,7 +6,6 @@ The application is hosted on Streamlit. The web application can be accessed usin
 2.    On the left hand side, there will be a sidebar with a menu to login or signup.
       -    To signup, select the signup drop down.
            -    Enter a username and password then press the sign up button
-      -    To login without creating an account use testapp as the username and password
 3.    Proceed to the login menu.
 4.    Enter the username and password into the fields and select the checkbox
       -    Make sure the checkbox stays selected, if it is unchecked you will be logged out
