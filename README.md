@@ -1,4 +1,5 @@
 # CapstoneProject
+Uses Python 3.9.12 This files contains WGU Capstone Project. The project is hosted on streamlit.io. The current project can be viewed at: https://share.streamlit.io/rylanmattocks/capstoneproject/main/wgumain.py. This project shows the previous temperature for Indianapolis, IN from 1995-2019 as well as a predictive algorithm for future temperature. The data is displayed graphically in the following categories: seasonal, monthly, and yearly.
 
 The application is hosted on Streamlit. The web application can be accessed using the following steps:
 
